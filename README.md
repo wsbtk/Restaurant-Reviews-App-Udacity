@@ -6,7 +6,7 @@ For the **Restaurant Reviews** project, I incrementally converted a static webpa
 
 ### Specification
 
-I was provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality.
+I was provided the starter code for the restaurant reviews website. The code had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn’t include any standard accessibility features, and it didn’t work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality.
 
 ### How to run the Project?
 
