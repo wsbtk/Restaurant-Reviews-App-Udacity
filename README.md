@@ -16,3 +16,9 @@ I was provided the starter code for the restaurant reviews website. The code had
    * Note -  For Windows systems, Python 3.x is installed as `python` by default. To start a Python 3.x server, you can simply enter `python -m http.server 8000`.
 
 2. With your server running, visit the site: `http://localhost:8000`. The site should be running. 
+
+### Credits & Tools
+
+1. Starter Code from Udacity
+2. Adding a Service Worker and Offline into your Web App by Google [website](https://developers.google.com/web/fundamentals/codelabs/offline/)
+3. Favicon Generator [website](https://favicon.io/)
