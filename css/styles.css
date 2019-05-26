@@ -11,7 +11,7 @@ body {
 	background-color: #fdfdfd;
 	margin: 0;
   position:relative;
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
 }
 ul, li {
@@ -54,7 +54,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 }
 /* ====================== Navigation ====================== */
 nav {
-  width: 100%;
+  /* width: 100%; */
   background-color: #252831;
   text-align:center;
 }
@@ -76,6 +76,9 @@ nav h1 a {
     background-color: #eee;
     font-size: 17px;
     margin: 0;
+}
+#breadcrumb-style {
+  font-weight: 600;
 }
 
 /* Display list items side by side */
@@ -160,7 +163,7 @@ nav h1 a {
   display: block;
   margin: 0;
   max-width: 100%;
-  min-height: 248px;
+  /* min-height: 248px; */
   min-width: 100%;
 }
 #restaurants-list li h1 {
